@@ -4,7 +4,7 @@ Simple music player app built on top of the Soundcloud API. The app is built wit
 App requires a Soundcloud API key to use properly.
 
 <p align="center">
-    <img src ="resources/demo.gif" />
+    <img src ="resources/demo.gif" height=500 />
 </p>
 
 ## Used Libraries
