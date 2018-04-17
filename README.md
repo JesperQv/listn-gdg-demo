@@ -23,6 +23,8 @@ Disclaimer: This is a work in progress. Some presenters in the presentation modu
 
 The project is built to display my implementation of Clean Architecture on the Android platform. I use Dagger 2 for dependency injection to achieve code that is easy to test and understand. RxJava 2 and Android Data Bindings are used to create a reactive application where the UI always (hopefully?) accurately represents whats going on under the hood. 
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
