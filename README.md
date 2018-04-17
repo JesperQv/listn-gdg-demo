@@ -7,6 +7,8 @@ App requires a Soundcloud API key to use properly.
     <img src ="resources/demo.gif" height=500 />
 </p>
 
+Design by [Anton Andersson Andrejić](http://www.iamanton.se/)
+
 ## General information
 
 Disclaimer: This is a work in progress. Some presenters in the presentation module have missing tests etc. More features may be implemented in the future.
