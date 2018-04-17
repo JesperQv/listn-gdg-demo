@@ -3,11 +3,11 @@
 Simple music player app built on top of the Soundcloud API. The app is built with Uncle Bob's Clean Architecture, loosely inspired by [this project](https://github.com/android10/Android-CleanArchitecture). The audio player is inspired by [this project](https://github.com/googlesamples/android-UniversalMusicPlayer).
 App requires a Soundcloud API key to use properly.
 
+Design by [Anton Andersson Andrejić](http://www.iamanton.se/)
+
 <p align="center">
     <img src ="resources/demo.gif" height=500 />
 </p>
-
-Design by [Anton Andersson Andrejić](http://www.iamanton.se/)
 
 ## General information
 
