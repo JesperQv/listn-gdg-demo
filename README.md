@@ -13,10 +13,15 @@ App requires a Soundcloud API key to use properly.
 * __Android Data Binding Library__
 * __FirebaseCore (for crash reporting)__
 * __Picasso__
+* __Exoplayer 2__ 
 
 Libraries for testing
 * __JUnit__
 * __Mockito__
+
+Disclaimer: This is a work in progress. Some presenters in the presentation module have missing tests etc. More features may be implemented in the future.
+
+The project is built to display my implementation of Clean Architecture on the Android platform. I use Dagger 2 for dependency injection to achieve code that is easy to test and understand. RxJava 2 and Android Data Bindings are used to create a reactive application where the UI always (hopefully?) accurately represents whats going on under the hood. 
 
 
 
