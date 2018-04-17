@@ -1,10 +1,10 @@
 # Listn   [![CircleCI](https://circleci.com/gh/JesperQv/Listn.svg?style=shield&circle-token=745faaddfe7553d8c5a40452d7d44764e863ca6a)](https://circleci.com/gh/JesperQv/Listn)
 
-Simple music player app built on top of the Soundcloud API. The app is built with Uncle Bob's Clean Architecture, loosely inspired by [this project](https://github.com/android10/Android-CleanArchitecture). The audio player is inspired by [this project](https://github.com/googlesamples/android-UniversalMusicPlayer)
+Simple music player app built on top of the Soundcloud API. The app is built with Uncle Bob's Clean Architecture, loosely inspired by [this project](https://github.com/android10/Android-CleanArchitecture). The audio player is inspired by [this project].(https://github.com/googlesamples/android-UniversalMusicPlayer)
 App requires a Soundcloud API key to use properly.
 
 <p align="center">
-    <img src ="resources/Demo.gif" />
+    <img src ="resources/demo.gif" />
 </p>
 
 ## Used Libraries
